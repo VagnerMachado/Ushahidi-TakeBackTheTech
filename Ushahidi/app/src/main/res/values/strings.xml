@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ushahidi</string>
+    <string name="title_activity_maps">Ushahidi</string>
+    <string name="about">This application displays the latest reports of cyber-bullying and abuse around the globe</string>
+    <string name="click">Click on the markers for more detail</string>
+    <string name="info">This application displays the latest incidents submitted to TakeBackTheTech.Net</string>
+    <string name="powered">Powered by</string>
+    <string name="enter">Go</string>
+    <string name="ushahidiImage">Ushahidi Image</string>
+    <string name="TakeImage">Take Back the Tech Image</string>
+</resources>
